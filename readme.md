@@ -1,6 +1,6 @@
 # ClearPass-MPSK-Update
 
-Ein einfaches Bash-Script, dass das RADIUS-Attribut `Radius:Aruba` `Aruba-MPSK-Passphrase` in einem ClearPass Enforcement Profile nach Name lädt und das Attribut ersetzt.
+Ein Bash-Script, mit dem das RADIUS-Attribut Aruba-MPSK-Passphrase in einem ClearPass Enforcement Profile gesetzt werden kann
 
 ## Voraussetzungen
 
