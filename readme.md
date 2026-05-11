@@ -38,9 +38,9 @@ Ein Bash-Script, mit dem das RADIUS-Attribut Aruba-MPSK-Passphrase in einem Clea
 ### 3. Zugangsdaten in `update-mpsk.sh` eintragen
 
 ```bash
-CLEARPASS_API_ROOT="https://clearpass-adresse/api"
+CLEARPASS_API_ROOT="https://clearpass-fqdn-or-ip/api"
 CLEARPASS_CLIENT_ID="Endpoint-MPSK-Update" # Name des API-Clients aus 2.
-CLEARPASS_CLIENT_SECRET="client-secret" # einmalig angezeigtes Secret aus 2.
+CLEARPASS_CLIENT_SECRET="" # einmalig angezeigtes Secret aus 2.
 ```
 
 ## Nutzung
